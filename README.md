@@ -2,7 +2,7 @@
 
 A rigorous, end-to-end benchmarking framework for Drug-Target Interaction (DTI) prediction on human protein targets from BindingDB. This project evaluates baseline heuristics and modern machine learning models across four distinct generalization regimes to expose entity memorisation, quantify domain-shift degradation, and measure performance decay as a function of chemical and sequence similarity.
 
-**Live site:** 
+**Live site:** https://seniwalanuj-cmyk.github.io/dti-project/
 ---
 
 ## Table of Contents
